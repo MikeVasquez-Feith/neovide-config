@@ -1,0 +1,5 @@
+# neovide-config
+
+```
+:PackerSync
+```
